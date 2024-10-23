@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF0C8-637F-4973-895B-F21ABE26D23D}|TheatreManagement\\TheatreManagement.csproj|d:\\isdb-bisew\\idb classes\\module_05\\project\\1280670_project\\1280670_project(crud)\\cs_scsl_a_58_01sln\\theatremanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BF0C8-637F-4973-895B-F21ABE26D23D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF0C8-637F-4973-895B-F21ABE26D23D}|TheatreManagement\\TheatreManagement.csproj|d:\\isdb-bisew\\idb classes\\module_05\\project\\1280670_project\\1280670_project(crud)\\cs_scsl_a_58_01sln\\theatremanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BF0C8-637F-4973-895B-F21ABE26D23D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF0C8-637F-4973-895B-F21ABE26D23D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\theatremanagement\\artistinfo.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{F69BF0C8-637F-4973-895B-F21ABE26D23D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\artistinfo.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF0C8-637F-4973-895B-F21ABE26D23D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\theatremanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F69BF0C8-637F-4973-895B-F21ABE26D23D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF0C8-637F-4973-895B-F21ABE26D23D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\theatremanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F69BF0C8-637F-4973-895B-F21ABE26D23D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\TheatreManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TheatreManagement\\Program.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\TheatreManagement\\Program.cs",
+              "RelativeToolTip": "TheatreManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:12:20.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\TheatreManagement\\App.config",
+              "RelativeDocumentMoniker": "TheatreManagement\\App.config",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\TheatreManagement\\App.config",
+              "RelativeToolTip": "TheatreManagement\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-12T08:45:17.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\TheatreManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "TheatreManagement\\Form1.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\TheatreManagement\\Form1.cs",
+              "RelativeToolTip": "TheatreManagement\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:40:08.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArtistInfo.rpt",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\TheatreManagement\\ArtistInfo.rpt",
+              "RelativeDocumentMoniker": "TheatreManagement\\ArtistInfo.rpt",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\TheatreManagement\\ArtistInfo.rpt",
+              "RelativeToolTip": "TheatreManagement\\ArtistInfo.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAToSURBVEhLtVVbbBRlFP7mn9mZvXQvLN22y7VBCraoCVJBAkhNwCjRGKMg4gPG6ANGooaEV\u002BirIRpjiLwZSbxEEnkRYkxQSAjIxdZYUSwXBdpl26Xb3dmd3Z2d\u002BWc8/3Tbrt0Wn/yyZzfnnD3/\u002Bc/1x/8G1z1I5Eo1dgqfHO/vcYCeGvufYMDpPS\u002BsPl1jp\u002BG64oyeBgeHj/cfVGR2IBTwQWZkPge448AoW7C5e1h25Q9Nvzb0zrYVZk09hVkdRJu0A\u002BtXLUA0pHoySWr4G3SjinO/pZArmhliz7uM73v7\u002BTXXJ7TTmPWK4uaxkIaQ3weKhngJCsnqScgEFiaaEqs7EutjAf97Ir2esA5z54Dsq5bj3VRQ3jD/RUVKj\u002BO6iIf9SM5vSkgSe8uB9NKRbwYe\u002BOjkoFY75T4OBMgJo5vORpNZu5HKeakqlquC3cEl/oFsFRZ7SkKDA0bhi5wLe3EIo69Jqkhl/Or2Yxh34FcVLEtG0d4WoQhC6Fg0T/wmAqq8XFX9c0cgBHRBD8KNcCLIkkxkkMZZ\u002B0f8bF3AGLuLxckgOpfE0bU0jk6itngIGjlumugND40pIok4UED8iogEpaRh/MTP44x\u002BCp9mj\u002BDj/CHcc0am9KIx6NOABpHokMk0ibSYKKGvchmDfBAFOY\u002BSYyBtp9BvXsKXhaP4pXrZ6yhBs7WzsvL1P8IFy1UVP1THNFmuyMKhgCQGCBYzMGwN42LpApyAA8dngXEGh3Sj9giOVb8gXkKb1IZWrdWr20woZUVaq0p8ERwsYaoavHTTXceJGS9y3JQHcN44h4JTBAWCItdh5A3YliXWDCpOBd/lTiAzNop9y/dTBOHasdNQ9j49L8q5lbA4FhVLdmysUI1fTbn46qwOM\u002BhHJpBANnYDTrgAk1XAbQ57iKNytwzKH7o7H8PGJRsRUcPUZY0xsD1PRYpvbImN794cuvdst6YvbfZVDZPh\u002B34DfX1xjP/ZhTtDDEPlLO75RmiJAU6KnAzYaL3dii3KVuxcvAvztfleU8wEy2TSF9M540R61DgKXvl8U6c68MqmENYs89FCA65ei8C4uAvS7Q1QoYFZdEqFVkRwId5/7RBe3LCdmmJi\u002BGYrAmtvb8/37j\u002BTOdF37ZZbsK4wyR6JBTl6HgrgkaUqwpoKZiTBr3fD6uuBrM/D5hVPYu\u002B2d/H4yvVoibV43TPZdZ6jOiikoKDBcQy8F655/MxgsSnow9qOCKpcxvC4g5sjNqyhFUCOpvbB23ju4c3Y2fEyFEWeGkoBmRwoQuBMT9qMOZBcRVHgIwpoPiTjKpa3qbRZFZpQGc3\u002BVry64E10RzZQ\u002BtyJW9fSM0neG3K/SRZ6YehKDBVbQolyrmkywgEFsYCGFrUNIRamWaACiYrXQdjNRIMDm\u002BxMG8joHOkczQP1Py0wNEcYmsM0fDQDxVLV257iRasni1pYTHRdAI11/\u002BzUrYOOIx/IVzSk8xKyRZeMXCTDJpJNJTBaFRF66aKRIPyUxvqimjRMVYv/TiXd8cy6jitC1uDg2wt3tzsO2227vi7TclvIKGBbtsmc0l8SL1zTC6XRUEjVo9FQJRjUbNpcNcsaXCfjqoGvtz26QDyljQ50vdIF2X3CspwdFbO6qlSuxnWjrGeyxg9XbqRPpoeyA2P5fIoH5Ww7/q729vaKYswB4B8HFw\u002BqgnWcEQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-12T08:40:08.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_05\\Project\\1280670_Project\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\TheatreManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "TheatreManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\SCSL21\\Desktop\\1280670_Project(CRUD)\\CS_SCSL_A_58_01sln\\TheatreManagement\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:40:08.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
